@@ -23,7 +23,6 @@ def solution1(array):
 
 # The solution below will take account the index and will not use divison in it's solution, however the the time complexity is
 # O(n^2)
-
 def solution2(array):
     resultArray = []
     for i in array:
