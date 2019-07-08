@@ -20,3 +20,5 @@ def solution(number):
         return solution(number[1:])
 
 print(solution('12222'))
+
+# Comeback to this is not good yet
